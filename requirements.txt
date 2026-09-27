@@ -203,6 +203,7 @@ numexpr @ file:///C:/Users/task_178653477302625/croot/numexpr_1786534860751/work
 numpy @ file:///C:/Users/task_178034591024428/croot/numpy_and_numpy_base_1780346079387/work/dist/numpy-2.4.6-cp312-cp312-win_amd64.whl#sha256=375794057405f6bbb3d0389d81b28b1318d6fd2e56f5c8da536fe9071b458af0
 numpydoc @ file:///C:/Users/task_176777904834951/croot/numpydoc_1767779194018/work
 openpyxl @ file:///C:/b/abs_6cdczthntz/croot/openpyxl_1736371239628/work
+optree @ file:///C:/Users/task_178644052010660/croot/optree_1786440612083/work
 optuna==5.0.0
 packaging==26.3
 pandas @ file:///C:/b/abs_e18w9ay4we/croot/pandas_1732735115740/work/dist/pandas-2.2.3-cp312-cp312-win_amd64.whl#sha256=2c8058e41dda2e7ecfff0740ad1d98f17d528c740f71b038c523a9d24d2321b0
@@ -217,7 +218,7 @@ patsy @ file:///C:/Users/task_176761418593004/croot/patsy_1767614396995/work
 pexpect @ file:///C:/miniconda3/conda-bld/pexpect_1762535958604/work
 phik==0.12.5
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-pillow @ file:///C:/Users/task_CPjpLYBoTYKyR_1/croot/pillow_1783980206532/work
+pillow @ file:///C:/Users/task_177797436735795/croot/pillow_1777974465341/work
 pkce @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pkce_1699482718905/work
 pkginfo @ file:///C:/miniconda3/conda-bld/pkginfo_1765439575103/work
 platformdirs @ file:///C:/Users/task_GH__lLuySmO8S_0/croot/platformdirs_1785312171341/work
@@ -308,7 +309,7 @@ scipy @ file:///C:/Users/task_178236962878106/croot/scipy_1782369744304/work/dis
 seaborn @ file:///C:/b/abs_0bv5x0ucxb/croot/seaborn_1749110315600/work
 semver @ file:///C:/miniconda3/conda-bld/semver_1761903327972/work
 Send2Trash @ file:///C:/Users/task_176817069615920/croot/send2trash_1768170818653/work
-setuptools==83.0.0
+setuptools==80.10.2
 shellingham @ file:///C:/miniconda3/conda-bld/shellingham_1761912225695/work
 shiboken6==6.11.0
 sip @ file:///C:/Users/task_177080667796782/croot/sip_1770807601673/work
@@ -350,6 +351,9 @@ tomli @ file:///C:/Users/task_176829653518262/croot/tomli_1768296659053/work
 tomli_w @ file:///croot/tomli-w_1738351312774/work
 tomlkit @ file:///C:/Users/task_SDbWwMnkQp2yW_0/croot/tomlkit_1784720805571/work
 toolz @ file:///C:/miniconda3/conda-bld/toolz_1764677789708/work
+torch @ file:///C:/Users/task_177834781191368/croot/libtorch_1778347919460/work
+torchaudio @ file:///C:/Users/task_177921019108659/croot/torchaudio_1779210470753/work
+torchvision @ file:///C:/Users/task_177878622147329/croot/torchvision_1778786377820/work
 tornado @ file:///C:/Users/task_178231409048749/croot/tornado_1782314859353/work
 tqdm @ file:///C:/Users/task_178696925014068/croot/tqdm_1786969398152/work
 traitlets @ file:///C:/Users/task_177874328087517/croot/traitlets_1778743402902/work
