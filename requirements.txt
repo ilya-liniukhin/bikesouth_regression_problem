@@ -151,6 +151,9 @@ jupyterlab @ file:///C:/Users/task_178704734860416/croot/jupyterlab_178704749268
 jupyterlab_pygments @ file:///C:/b/abs_d5alfet8m6/croot/jupyterlab_pygments_1741124274578/work
 jupyterlab_server @ file:///C:/Users/task_176962943097182/croot/jupyterlab_server_1769629894745/work
 jupyterlab_widgets @ file:///home/task_Juh6Nl9AS1Ob4_0/croot/jupyterlab_widgets_1784891225347/work/python/jupyterlab_widgets
+jupytext==1.19.5
+kaggle==2.2.4
+kagglesdk==0.1.37
 keyring @ file:///C:/miniconda3/conda-bld/keyring_1763637202934/work
 kiwisolver @ file:///C:/Users/task_Ywen9ju6Q5iUd_0/croot/kiwisolver_1786023441741/work
 lazy-loader @ file:///C:/Users/task_177375488752887/croot/lazy_loader_1773755006671/work
